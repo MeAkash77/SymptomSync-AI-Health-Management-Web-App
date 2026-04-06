@@ -454,13 +454,6 @@ Use these commands in CI/local validation to reflect the current implementation.
 4. Commit & PR with description
 5. Wait for review and merge
 
-## Authors
-
-A big thank you to our team members for their hard work and dedication:
-
-- [David Nguyen](https://github.com/hoangsonww)
-- [Erica Ocbu](https://github.com/ericaocbu)
-
 ## License
 
 [MIT License](LICENSE) - Feel free to use, modify, and distribute this code as you wish. Contributions are welcome!
