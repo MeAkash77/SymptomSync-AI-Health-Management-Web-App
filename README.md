@@ -220,7 +220,7 @@ flowchart LR
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/hoangsonww/SymptomSync-Health-App.git
+   git clone https://github.com/MeAkash77/SymptomSync-AI-Health-Management-Web-App.git
    cd SymptomSync-Health-App
    ```
 
